@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+.headerr{
+    background-color: rgb(246, 197, 205);
+    font-family: "Comic Sans MS", cursive;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    padding-bottom: 0;
+    font-size: 20px;
+    
+}
+.container {
+    background-color: rgb(246, 197, 205);
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+}
+
+.maincalci{
+   padding: 20px;
+   border-radius: 5px;
+   background-color: #9f9fef;
+   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+
+}
+
+.display-the-output{
+    width: 100%;
+}
+.maincalci form input{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: rgb(255, 234, 238);
+    color: black;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+    border: none;
+    cursor: pointer;
+    
+}
+form .display-the-output{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px, 0;
+    
+
+}
+
+form .display-the-output input{
+    text-align: right;
+    flex: 1;
+    font-size: 25px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+form input.equal{
+    width: 114px;
+}
