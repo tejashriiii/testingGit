@@ -8,15 +8,19 @@ _Some commands_
 
 _*Ignore_
 
-`git clone <-repo link->`
 
-`git status`
+\```
+git clone <-repo link->
 
-`git add <-file name-> //add the new file`
+git status
 
-`git commit -m "the commit" //what changes done`
+git add <-file name-> //add the new file
 
-`git push origin main //save everything in github`
+git commit -m "the commit" //what changes done
+
+git push origin main //save everything in github
+\```
+
 OR
 
 `git init`
