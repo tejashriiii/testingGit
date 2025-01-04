@@ -30,7 +30,7 @@ _for pushing a project made already_
 
 OR
 
-_for enabling git at the start of thr project(to keep track of it easily)_
+_for enabling git at the start of the project(to keep track of the changes easily)_
 
 `git init`
 
