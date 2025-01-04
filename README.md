@@ -1,27 +1,36 @@
 # testingGit
 Trying to understand wth is happening, with a cute calculator as a labrat :)
-
+<br>
+<br>
 <br>
 
 
+
+![image](https://github.com/user-attachments/assets/3fad5203-95fb-47e4-8064-70f444896a98)
+
+
+
+<hr>
+
 _Some commands_  
+_* pls Ignore_
 
-_*Ignore_
+_for pushing a project made already_
 
+`git clone <-repo link->`
 
-\```
-git clone <-repo link->
+`git status`
 
-git status
+`git add <-file name->` //adding a new file
 
-git add <-file name-> //add the new file
+`git commit -m "the commit"` //changing "the commit" to the changes you made
 
-git commit -m "the commit" //what changes done
+`git push origin main` //saving everything in github
 
-git push origin main //save everything in github
-\```
 
 OR
+
+_for enabling git at the start of thr project(to keep track of it easily)_
 
 `git init`
 
